@@ -1,7 +1,7 @@
 # Login-and-Register-Form-Using-PHP-with-Database-Connectivity
 ## To run this project need local host like XAMPP Server and MySQL server on XAMPP (Install XAMPP Server)
 
-##Steps
+## Steps
 ### Install XAMPP Server
 ### Start Apache server and MySQL server in XAMPP Controler
 ### All projects must be created in installed location of XAMPP --> htdocs --> folder name of project (Clone the project to this location)
