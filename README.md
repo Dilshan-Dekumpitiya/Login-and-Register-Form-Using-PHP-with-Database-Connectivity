@@ -1,5 +1,7 @@
 # Login-and-Register-Form-Using-PHP-with-Database-Connectivity
 ## To run this project need local host like XAMPP Server and MySQL server on XAMPP (Install XAMPP Server)
+## Database - MySQL
+## IDE - Visual Studio Code
 
 ### Steps :
 #### 1) Install XAMPP Server
